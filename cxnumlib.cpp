@@ -1,6 +1,6 @@
 #include <iostream>
-#include <cstdlib> //abs()
-#include <cmath> //sqrt()
+#include <cstdlib>
+#include <cmath> 
 #include "cxnumlib.hpp"
 
 //constructor
