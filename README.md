@@ -46,8 +46,8 @@ Constructor: two parameters - real and imaginary part (default values for both p
 
 Operators:
 - addition - use "+" operator to add two ComplexNumber class objects (returns ComplexNumber class object)
-`ComplexNumber c1(2,3);`
-`ComplexNumber c2(4,-6);`
+`ComplexNumber c1(2,3);\n`
+ComplexNumber c2(4,-6);`
 `ComplexNumber c3;`
 `c3 = c1 + c2;`
 
